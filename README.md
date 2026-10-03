@@ -1,0 +1,2 @@
+# premium-wheel-hub-001-hub-boring-and-mortising-templ
+Hub boring and mortising tolerances are brutally unforgiving—one measurement error cascades through your entire wheel assembly. Stop relying on scattered notes and inconsistent calculations; the Hub Boring and Mortising Template gives you a centralized, repeatable system that catches mistakes before they become expensive timber waste.  This Notion
